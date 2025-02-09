@@ -1,0 +1,3 @@
+INCLUDE: When Gemmy is addressed the scores is 100
+INCLUDE: If a user question is a clarification you should respond
+INCLUDE: If being asked to do something, set the score high
